@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bruno\\Desktop\\Projetos2022\\ProjetoDev2022-2023\\C#\\Repositório curso C# e .Net Udemy\\Seção 12 - Projeto - Sistema de jogo de xadrez\\Meu Xadrez\\Meu Xadrez.csproj",
+      "projectUniqueName": "C:\\Users\\Bruno\\Desktop\\Projetos2022\\ProjetoDev2022-2023\\C#\\Repositório curso C# e .Net Udemy\\Seção 12 - Projeto - Sistema de jogo de xadrez\\Meu Xadrez - Copia\\Projeto-Jogo-De-Xadrez\\Meu Xadrez.csproj",
       "projectName": "Meu Xadrez",
-      "projectPath": "C:\\Users\\Bruno\\Desktop\\Projetos2022\\ProjetoDev2022-2023\\C#\\Repositório curso C# e .Net Udemy\\Seção 12 - Projeto - Sistema de jogo de xadrez\\Meu Xadrez\\Meu Xadrez.csproj",
+      "projectPath": "C:\\Users\\Bruno\\Desktop\\Projetos2022\\ProjetoDev2022-2023\\C#\\Repositório curso C# e .Net Udemy\\Seção 12 - Projeto - Sistema de jogo de xadrez\\Meu Xadrez - Copia\\Projeto-Jogo-De-Xadrez\\Meu Xadrez.csproj",
       "packagesPath": "C:\\Users\\Bruno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bruno\\Desktop\\Projetos2022\\ProjetoDev2022-2023\\C#\\Repositório curso C# e .Net Udemy\\Seção 12 - Projeto - Sistema de jogo de xadrez\\Meu Xadrez\\obj\\",
+      "outputPath": "C:\\Users\\Bruno\\Desktop\\Projetos2022\\ProjetoDev2022-2023\\C#\\Repositório curso C# e .Net Udemy\\Seção 12 - Projeto - Sistema de jogo de xadrez\\Meu Xadrez - Copia\\Projeto-Jogo-De-Xadrez\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",

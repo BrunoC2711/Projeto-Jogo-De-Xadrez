@@ -16,6 +16,9 @@ namespace tabuleiro {
         public void incrementarQteMovimentos() {
             qteMovimentos++;
         }
+        public void decrementarQteMovimentos() {
+            qteMovimentos--;
+        }
         public abstract bool[,] movimentosPossiveis();
         public bool podeModerPara(Posicao pos) {
             if ((pos.linha <= 8 && pos.linha > 0) && (pos.coluna <= 8 && pos.coluna > 0)) {

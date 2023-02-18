@@ -41,6 +41,9 @@ namespace Meu_Xadrez {
             Console.WriteLine();
             Console.WriteLine("Turno: " + partida.turno);
             Console.WriteLine("Peça " + partida.jogadorAtual + ", sua vez");
+            if (partida.xeque) {
+                Console.WriteLine("XEQUE!");
+            }
         }
         public static void imprimirTabuleiro(Tabuleiro tabuleiro, bool[,] posicoesPossiveis) {
             ConsoleColor fundoOriginal = Console.BackgroundColor;
